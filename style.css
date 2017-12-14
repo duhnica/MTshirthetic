@@ -119,3 +119,8 @@ p {font-family: Arial; size:5px;}
             border-radius: 5px;
             background-color: brown;
         }
+h2 {
+	border-bottom-style: dotted;
+	border-width: thin;
+}
+	
