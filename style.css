@@ -121,6 +121,7 @@ p {font-family: Arial; size:5px;}
         }
 h2 {
 	border-bottom-style: dotted;
-	border-width: thin;
+	border-bottom-width: medium;
+	border-bottom-color: #ededed;
 }
 	
